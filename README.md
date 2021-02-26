@@ -29,7 +29,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/demonstrations/InfiniteScrolling.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/demonstrations/InfiniteScrolling.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><br>
+
+<img src='/demonstrations/PullToRefresh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
