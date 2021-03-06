@@ -45,6 +45,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='/demonstrations/PullToRefresh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/demonstrations/SavingTweets.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
